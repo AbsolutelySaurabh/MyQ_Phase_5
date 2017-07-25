@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F37175">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:id="@+id/welcome_image_4"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/intro_four"
+            android:layout_gravity="center" />
+
+
+        <TextView
+            android:id="@+id/makeFr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Compete to become"
+            android:layout_gravity="center"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:id="@+id/joinGr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Champion of all!"
+            android:layout_gravity="center"
+            android:textSize="30sp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
