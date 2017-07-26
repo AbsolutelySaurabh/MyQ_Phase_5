@@ -74,7 +74,7 @@
             android:paddingTop="10dp"
             android:text="When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, reviews comments, likes, email address you used to sign up, and any other information you provide us. If you are using MyQ on your mobile device, you can also choose to provide us with location data.
 
-You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to Myish, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are."
+You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to MyQ, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are."
             android:textSize="15sp"
             />
 
@@ -100,7 +100,7 @@ You also may give us permission to access your information in other services. Fo
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingTop="10dp"
-            android:text="• Log Data: When you use MyQ or go to a webpage or use an app that has MyQ features (like our “My” button), our servers automatically record information (“log data”) including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web pages you visited that had Myish features, browser type and settings, the date and time of your request, how you used MyQ, and cookie data."
+            android:text="• Log Data: When you use MyQ or go to a webpage or use an app that has MyQ features (like our “My” button), our servers automatically record information (“log data”) including information that your browser sends whenever you visit a website or your mobile app sends when you’re using it. This log data may include your Internet Protocol address, the address of the web pages you visited that had MyQ features, browser type and settings, the date and time of your request, how you used MyQ, and cookie data."
             android:textSize="15sp"
             />
 
@@ -108,7 +108,7 @@ You also may give us permission to access your information in other services. Fo
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingTop="10dp"
-            android:text="• Cookie Data: Depending on how you are accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your MyQ account or your browser), or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store your language preferences or other MyQ settings so you do not have to set them up every time you visit Myish. Some of the cookies we use are associated with your MyQ account (including personal information about you, such as the email address you gave us), and other cookies are not.
+            android:text="• Cookie Data: Depending on how you are accessing our products, we may use “cookies” (a small text file sent by your computer each time you visit our website, unique to your MyQ account or your browser), or similar technologies to record log data. When we use cookies, we may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, we may use cookies to store your language preferences or other MyQ settings so you do not have to set them up every time you visit MyQ. Some of the cookies we use are associated with your MyQ account (including personal information about you, such as the email address you gave us), and other cookies are not.
 "            android:textSize="15sp"
             />
 
@@ -116,7 +116,7 @@ You also may give us permission to access your information in other services. Fo
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingTop="10dp"
-            android:text="• Device Information: In addition to log data, we may also collect information about the device on which you use Myish on, including the type of device, the operating system, the device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you are using and its settings. For example, different types of information are available depending on whether you use a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please check the policies of your device manufacturer and/or software provider."
+            android:text="• Device Information: In addition to log data, we may also collect information about the device on which you use MyQ on, including the type of device, the operating system, the device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you are using and its settings. For example, different types of information are available depending on whether you use a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please check the policies of your device manufacturer and/or software provider."
             android:textSize="15sp"
             />
 
