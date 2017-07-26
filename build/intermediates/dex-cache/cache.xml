@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/0acf2b08230c24f72c0ec5e7c4a2aa3e5ac26ba1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e956df3c4bf71c768af255f3d18358c6172c93ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/24cae13b61262650f366f10a8243db3d58d7b64f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45e41210b8e19ee0f5180e94d88ec1c7a1804f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/805adfbafcf4ccd1ed51c898a4797f0dd0962271/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9233f40123e43625c870fc17a8fcd7a1be5ab214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_5f6c7d571d21f35db4e7bfe18658954e32a3fdf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/6da3e5586a9e40a1283e4d21fdba6bd03e23765e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_390b90e1028e18299749b7eb5e366971c6a60584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/e6019abe8b6483595e85a64fc83193124886db3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9912b63003cea2610338d788c537292330845ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/8e2ef9e49a8a11629a3250d82d26f9549d35b923/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_531abb8f4ef08011bcaeabf2a177eaf07d1de673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-query-0.25.9_a1409503720865dee4c27f6894a9cdfb5321ae6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_4d2a0162b3c50a0e6b23e8b4fd751863443417ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/e54c26c72662ef824a7be926cf1ad895f642f46e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40ec63285c0defcbe7598420c82f71b25495f3de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/6db3fc79c2ddbad9b5eaf8d210c6f4147dd85bde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_404aa039da431f0c84bbbbaeafce8fbe8201a55a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/fbcbad1d18477df1febf91b40f40fcc68833c50b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1b397132b5c301f6f97e6c93427d7cdcefcbfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/b428eadbba695186fe76f487da8e8373d335dcea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eab75035563d363e77ab443e30ebc236c66defac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/786b9e0fdd78e2083b45acc0e67cecbb5f78186b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8cbd5449bc764504bbeb71b0ba72d471e1ba7e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/50dc601266938e9d910ecb2e4b4ac1ebaad39d20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dc677014facb91b390b4a4ea3323843ff9e4c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/ae7d86d1391498b30707601d9d8dc70d6f128cfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b33f9087285181b6c71d40392302b2fa5bf425b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/ee13262464d5e25ece57a188244ba11554f2c627/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_179af41a05b004b798f12448a94138d290e8d099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/bd566c8c67a58886b746d770818aa4c241593229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2aa50772626653c279e241d14af980f11e36de81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_6128b0f35b4dd59871bc54a2c90fd2302ed95f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/a2524efe4fe1e96e037978b2db235482ce727e11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8d3dee3e39c453cdb1f57e0ebfab429559efba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/d494fa7e381e50286c74f27c41552f0cfee4f838/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7f14599107dec03daa2d766041834830f7f2431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/5f927ecd1f15632198ab7734a743fb038bd895c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75d4698f991c3cd92170596ab5edfae71922cecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/70cbf6e1ba83804e3ec5f034be4418db313caf04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2209efda1848218719a05c8eb7548feedb07989a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/926e9f5a684a6e7b95f4a22d33d52c70d576f1c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea72cde249bfd55142b1d6d3bd5ce024a2f061f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/65c3b9b3de1b1cc140354fa9fab389069bffee41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26d4d6f79584ec633237d4c154ef6e507db92e25">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8430c4ce78db416741a862da39fb2e683896e3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/9fa29c7d6e1b9604b8521c74fd4c934cdcc19efe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed879bc1c6861da64bfb831ea2127eeb0201b1eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/041aac2c4eabe5367b76dc6add21ed1577b739cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a55a978678d526046e676b8420c61609412ad465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_6600dc8e81b8bbc84358a7abf5a34b81227641e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/50d21409769ed6417442edf10bda38648e060027/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30bebb567ecf6400577af2ff7e7c5640846b1855/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/39f60712b46eae08a09e0493bb11e0b55e54ac37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_073eb1aff5ab16c703297333d96b3d61b7649eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/229f26f2904fce217c69486aafb7f36b01da0770/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9255f067a6b7d921bc73929fcb877eaac5bcf95">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44a80158fa1334c7afae7d29aa50b4908d000b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/afd0096fe270d77243e1953a936eb97a6cd9cf57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c24edfc40193d672c481a079d1951cafceea48b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_cfd45d09cee6ae67e71d5c3beb84e885952235c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/a2d33b2514c7d6a0fbcdc96d0f3608a0078546e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4178dfda3a06b1be0ec70030b784a5c37c7c43b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/908e084ee7b9999fd5cf0c0768c4b8c4f67ce8b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d01cbd868276a04fe85f402cc5783bd0347fbbda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/9b3159968fe34020cb09f1dc0aee0aa0842a85a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0376b5449f3a080bc0a41a71ccdfc79ccac08ab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/7b08f21ca7f61d1d4f9ab266139224ae8abb0488/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5475230c41ae250806f648bf49cc2de8a1d302c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/78781da050cbe2b4634804d28efe452fb283ff2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40129c235901f1aeedb6fdf79724f39f15ea4379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/643e24e0c604ded4bd953c6e7628fbb921d46f55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_687774036e0f3a6bc65e58b72d19df8ad59fe70e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/d5b3c3bcb7dff63dccb95a1a73f2cab210581d29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18e4f3fc178e621b077e14e5d57614d3ee2eb2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/c229357e1af99a69a0112ea3a2240c92e280448f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc86f01fc6738b7861f625933c56bdbadba6607a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/09f097eacbcfadaad0d6006751e265bc63466fbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91aa1b01b9292f067225d38e0f787ba29bcd3e87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/504712cc4721ff3736be5083fb5a21ca8edd200f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7c397b675824eb3f52666713ef42a379a587449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/cc2cc740c1b74ec464836c5e95e0e62b05b49a92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f68560b40a856d56baead4f68440212d2778ce89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/291c2132b06d66c0d875d5ff36521a16d65fa2d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a51c28a7cd647ce38703e4c26be30e4eee137cee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/72e9cf1a4e62b7f61fc7486912d88e46993c1452/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cd80802b04574dd44049c89b5dbb4eec8996d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/3ff744aeb75c72723adf68d40fc5ab487cb520d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aebb341238ba9b7357e7a73c49c493947143019f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/00a4defb794a4d5483c026734a8b5f09a5dfa9ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f87135743d8dbff9d85db221a76a9019ae5b8ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/49df5cfc9a7c4bb6cd9dc52c2faa00ea37291f54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_189cd1c30e67a8660065af857dfb2c4d6ee51f47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/c68697f9d5d04022159120f896c9872e9e6340af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cbb533d41a3341d1535a4856db24e2d17006d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/84ead86426e7de1fb679619c21365aade878be85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1265192765765c19a1a85b942a252de634bd0b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/62108e45fe6f7449518b40550d851eaa30eaf2f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3748b617ee227e3bf3b8043f093ae9bdb9f3cbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/af600449028b4a09c65be748ce749b84ed8d4b4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e69fccf4435c0cbd7d023bac5917cf691ae6f05b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/f4cfe429b103407cce454049d882602861fbad8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6b73c3b5cf55c32a0a861085ad73e9d71a640ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/ef34cf094df62f9a1c11971ce40d623aa01fd04a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d218c1e4f87ca983def62f61b8b1b4cc71b4631e">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_457b92c8e23050d27b734b30679491832c5a8cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/22233c9da8a7ff945f801e13745161d029e5ad4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c340e285c9fd485a80b3d69988ff4d7fe7804ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/3c96168b6317a3ec067b483a5dd151d5a666d47f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_037f7f568b989abf9da0be8ce2cf5d310abb3a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/945383a43d4c3a4f3d4483ba7730134ce597747f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b3cfb354163b2d35869a414176a0bf74c9c6cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/9c1d4d9f99b129e3aaef6011c7404a9be9a843d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82a0478764f1df86ca3273a5bf5e94c88a38cc38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/9dd4e6e00c6600724b3856da370931c2042420fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29c9de6d26d4d0e1f102d15e4c1c040fe529bbcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/b7043f941801fe72428cffb991bbcaf590bbcf0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_487562d00a240810811334aedae96d5373550b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/135d1aada396ed7ef8796545e9b77c7cf383b519/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2a557ab8e3b8445968034e8210c3e66fc53725b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/0034c101f54138b70d3ca678f90b9aa62b633d83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a208c1829ed7b3bfcc21a067deccbaabc551d5de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/3d6392ea68c92e3d0532902f7a5ae258586c4bbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1120792ff792ac7d41fef42463017e7f77208c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/54f41dddd968ae5866427d235f1fee6a990db473/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce8389e2019d77010cc58503d14525a93f76e8b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_e2ddd68d25a04a85544864cd3e842bd2747f55dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/b7ce6ef7c0d7ef8bfa1a976165fc6e8c45cb6865/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09b095bc0cd9524f0232366b622092e3377d33a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/e8a81341e8c246a8ee889d79a842b3197db81902/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8e05222300e98e02e9528fb72c27c79f46f0c10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/938d108f6b02a77dd88cff50e27710fb82e6a3f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dce3a2bef8cd989e835232b93525412ad45342b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/5070904a14dfb17a9d6413aa8e0231de4006299e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c501c037793894b7a446a1f56f696caf385b2e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/c2f5ad551392fb2eb7c84739ce2f6fb3ab6f49db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4ad5f9fa70d40bf9d4fc724c88a8faaa35a5c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d318cb24495d59c8c0020527ca05140694b5de66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/d21434832faafdafcf183dd5bc58022d46efb4e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c690a58fa26ab1037ed01e8c9545f975bf78c6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-5.1.2_7e4cb76e90ccea3f8976972c0fc434a2e50074e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/Desktop/MyQ_referral-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="237a9e1c138be1ffe3eb83d070e082029a775443">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_7fcf4f484b94be56cec00a37d8bc49b0d134aab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/14dfa12214abe7f37adb6356b06dbd4b032b5e57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41333ff1f1c70e2207bbb0304c8e486f93af0caf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1204e510e6c2ab638adaa9ee5e442088366b9065/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/ec1e5ec44c2ebf256b700cc008ed9ed38775ae86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c94514f9442a596a973fce3980a322f7e5cda818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/63be06d1ec1c018e992c2a17b4f4f60e1a0d7a60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9066a7f5ea928c5747b8ffe3834adc51e8b239d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/f046d38b03c522f850c3e9412baea245502005e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8ed907f4f7d82c3bb1ef867514ae8142f460410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/c4a0d89095b58542cd2a4e5d7d58310f4fa579a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e6d9ce817dd173f4c280af7128c6a1e1a62d24b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/44446a8791814a12b9479248870ec70ff81a08c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c4362d0110046441704ac66c0924006631fda76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/3932ec85d260f6e9fefa5652d7d0a382389f30bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcdcbbd496118cd4121d0a8f7b3759c4dbbcada5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.rosaloves/bitlyj/2.0.0/4556d1395fb808de976eaa4c110d86c5a30a9778/bitlyj-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4556d1395fb808de976eaa4c110d86c5a30a9778">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bitlyj-2.0.0_2c24eb5b3c270f353d9487ec94154fabbf662d75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_cce33d3e6a1963c39d6bc61b0780db408f8289d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/1f1f706e8cb4c2e633d2f61d8947b5e97be921d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddafbcebf7c856d68d9b0525f7e24d373d26157d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/7c4bc67910da2d735ea2664bb0390d4060bc2b0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38f6e7e828687de1b58105021d59055a4e875178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/3aff3723c2a27d57853a86a2c5e6e0b6d2ec3062/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72c05173221af6b70a0b14deb1c5ff1046740733">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e9ed90a4161d628c0f48ae42152d08ba227c923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/ebeefebb1547a4b9d5680c0309bc194d9b537993/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6aed2f12242c4925d0c401535e9d974980053106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/absolutelysaurabh/.android/build-cache/cf40c9817c8c886fd6b0a8cd4f4e8ae330bb3107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/home/absolutelysaurabh/Desktop/MyQ_referral-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8ceab2f943e02a36c861c014bf04e83c6891ed1/classes.dex" />
+    </item>
+
+</items>
